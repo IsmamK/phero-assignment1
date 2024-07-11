@@ -50,6 +50,11 @@ nav div {
   background-color: black;
   color:white;
   padding: 21px 24px;
+  
+}
+.contact a{
+  text-decoration: none;
+  color: white;
 }
 
 #whyweb{
@@ -296,4 +301,8 @@ footer{
 .footer-logo{
   width: 36px;
   height: 36px;
+}
+
+html {
+  scroll-behavior: smooth;
 }
